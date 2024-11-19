@@ -246,6 +246,7 @@ a:active {
     margin-right: auto;
     width: 50%;
     align-items: center;
+    float: left;
   }
 }
 
@@ -329,4 +330,3 @@ section {
   border: 3px solid #1a6f98;
   padding: 10px;
 }
-
