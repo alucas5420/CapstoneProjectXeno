@@ -17,6 +17,39 @@ html {
         color: #1a6f98;
     }
 
+    section {
+      p {
+        text-align: center;
+        align-content: center;
+      }
+    
+      h3 { 
+        text-align: center;
+      }
+
+      h4 { 
+        text-align: center;
+      }
+    
+      aside{
+        border-left: solid 1px #a48362;
+        padding: 20px;
+      }
+    
+      img {
+        align-content: center;
+      }
+    
+    }
+
+
+    .center3 {
+      margin: auto;
+      width: 50%;
+      border: 3px solid #1a6f98;
+      padding: 10px;
+    }
+
     footer {
         background-color: #1a6f98;
         border-bottom-left-radius: 3px;
